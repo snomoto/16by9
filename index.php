@@ -1,3 +1,3 @@
 <?php
 
-/* snomoto
+echo "test";
